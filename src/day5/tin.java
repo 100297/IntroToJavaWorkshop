@@ -13,7 +13,7 @@ public class tin {
  	String number = JOptionPane.showInputDialog("What is " + r .nextInt(70) + "+ 0");
    String answer =  JOptionPane.showInputDialog("What is " + number + " times 5");
   if (Integer.parseInt(number) * 5 == Integer.parseInt(answer)) {
-	JOptionPane.showMessageDialog(null, message);
+	JOptionPane.showMessageDialog(null,"YOU got it right");
 }
 		
   else {

@@ -15,7 +15,7 @@ public class StarShow {
 		
 		drawStar(150);
 		// 13. Set the speed to 8
-            robot.setSpeed(8);
+            robot.setSpeed(10);
 		// 6. Make a variable to hold the X position of the Robot and set it to 10
          int robotx = robot.getX();
 		// 7. Make a variable to hold the Y position of the Robot and set it to 950
