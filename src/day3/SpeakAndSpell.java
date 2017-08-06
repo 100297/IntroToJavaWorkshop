@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 public class SpeakAndSpell {
 
 	public static void main(String[] args) {
-		
+		for (int=0, i=1,  )
               speak("spell pneumonoultramicroscopicsilicovolcanoconiosis");
 		
 String answer = JOptionPane.showInputDialog("spell this word");
